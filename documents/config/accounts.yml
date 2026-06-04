@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Jayansh - Developer"
+    email: "jay@eazybank.com"
+  onCallSupport:
+    - (222) 555-1234
+    - (222) 523-1345
