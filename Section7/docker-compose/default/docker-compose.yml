@@ -56,10 +56,6 @@ services:
       - configserver
       - accountsdb
 
-
-
-
-
     extends:
       file: common-config.yml
       service: microservice-configserver-config
