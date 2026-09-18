@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Sai Teja - QA"
+    email: "jay@eazybank.com"
+  onCallSupport:
+    - (566) 555-1234
+    - (566) 523-1345

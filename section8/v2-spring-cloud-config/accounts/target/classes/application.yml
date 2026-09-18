@@ -26,17 +26,17 @@ spring:
       id: accounts:${server.port}
 
 
-  management:
-    endpoints:
-      web:
-        exposure:
-          include: "*"
-    endpoint:
-      shutdown:
-        access: unrestricted
-    info:
-      env:
-        enabled: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    shutdown:
+      access: unrestricted
+  info:
+    env:
+      enabled: true
 
 eureka:
   instance:

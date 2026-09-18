@@ -1,0 +1,10 @@
+Give me an project to practice with the below concepts
+1.Microservice architecture
+2Controller,Service,Repository,Models,Mapper,Audit,Constants,Entity layers,
+3.All Post,Put,Get and Delete classes
+4.With Global exception handler and should handle runtime exceptions
+5.Implement swagger documentation(@Operation,@Tag,@API response).
+6 Should be able to deploy using docker
+7.H2 data bases and lambook plugins
+8.Use spring cloud config server for configuration management
+using webhooks and springbus for data refresh using rabbitmq

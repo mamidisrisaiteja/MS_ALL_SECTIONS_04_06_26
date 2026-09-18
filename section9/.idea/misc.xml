@@ -5,6 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/v2-spring-cloud-config/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/v2-spring-cloud-config/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/v2-spring-cloud-config/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/v2-spring-cloud-config/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/v2-spring-cloud-config/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/v2-spring-cloud-config/gatewayserver/pom.xml" />
       </list>
     </option>
   </component>
